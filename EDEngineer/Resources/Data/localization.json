@@ -4043,7 +4043,7 @@
       "es": null,
       "pt": "Chumbo",
       "de": "Blei",
-      "fr": null,
+      "fr": "Plomb",
       "ru": "Свинец",
       "pl": null,
       "cs": "Lead"
@@ -4052,7 +4052,7 @@
       "es": null,
       "pt": "Boro",
       "de": "Bor",
-      "fr": null,
+      "fr": "Bore",
       "ru": "Бор",
       "pl": null,
       "cs": "Boron"
@@ -4070,7 +4070,7 @@
       "es": null,
       "pt": "Bateria Guardian",
       "de": "Guardian-Energiezelle",
-      "fr": null,
+      "fr": "Cellule d'Energie Guardian",
       "ru": "Энергоячейка стражей",
       "pl": null,
       "cs": "Guardian Power Cell"
@@ -4079,7 +4079,7 @@
       "es": null,
       "pt": "Componente de Tecnologia Guardian",
       "de": "Guardian-Technologiekomponente",
-      "fr": null,
+      "fr": "Composant de Technologie Guardian",
       "ru": "Компоненты технологий стражей",
       "pl": null,
       "cs": "Guardian Technology Component"
@@ -4088,7 +4088,7 @@
       "es": null,
       "pt": "Condutores de Potência Guardian",
       "de": "Guardian-Energieleiter",
-      "fr": null,
+      "fr": "Conduit,
       "ru": "Энергопроводники стражей",
       "pl": null,
       "cs": "Guardian Power Conduit"
@@ -4097,7 +4097,7 @@
       "es": null,
       "pt": "Peças de Armas Sentinela Guardian",
       "de": "Guardian-Wache-Waffenteile",
-      "fr": null,
+      "fr": "Bout de Sentinelle Guardian" ,
       "ru": "Детали вооружения стража Sentinel",
       "pl": null,
       "cs": "Guardian Sentinel Weapon Parts"
@@ -4106,7 +4106,7 @@
       "es": null,
       "pt": "Segmento de Diagrama de Módulo Guardian",
       "de": "Guardian-Modulbauplansegment",
-      "fr": null,
+      "fr": "Segment de Plan de Module Guardian ,
       "ru": "Фрагмент чертежа модуля стражей",
       "pl": null,
       "cs": "Guardian Module Blueprint Segment"
@@ -4115,7 +4115,7 @@
       "es": null,
       "pt": "Componentes de Destroços Sentinela Guardian",
       "de": "Guardian-Wache Trümmerteile",
-      "fr": null,
+      "fr": "Composant de Sentinelle Guardian Detruite",
       "ru": "Обломки кораблекрушений стража Sentinel",
       "pl": null,
       "cs": "Guardian Sentinel Wreckage Components"
@@ -4124,7 +4124,7 @@
       "es": null,
       "pt": null,
       "de": "Guardian-Schiffsbauplansegment",
-      "fr": null,
+      "fr": "Segment de Plan de Vaisseau Guardian",
       "ru": "Сегмент чертежа судна стражей",
       "pl": null,
       "cs": "Guardian Vessel Blueprint Segment"
@@ -4133,7 +4133,7 @@
       "es": null,
       "pt": "Humano",
       "de": "Menschlich",
-      "fr": null,
+      "fr": "Humain",
       "ru": "Технологии людей",
       "pl": null,
       "cs": "Lidské"
@@ -4142,7 +4142,7 @@
       "es": null,
       "pt": "Estante de Carga Anti-Corrosiva (2D e 4D)",
       "de": "Korrosionsresistentes Frachtegtell (2D and 4D)",
-      "fr": null,
+      "fr": "Soute Cargo Anti-Corrosive (2D et 4D)",
       "ru": "Коррозийно-устойчивый грузовой стеллаж (2D и 4D)",
       "pl": null,
       "cs": "Corrosion Resistant Cargo Rack (2D and 4D)"
@@ -4151,7 +4151,7 @@
       "es": null,
       "pt": "Estante de Mísseis Enzimáticos",
       "de": "Enzym Raketenrampe",
-      "fr": null,
+      "fr": "Panier de Missiles a Enzymes",
       "ru": "Блок энзимных ракет",
       "pl": null,
       "cs": "Enzyme Missile Rack"
@@ -4160,7 +4160,7 @@
       "es": null,
       "pt": "Guardian",
       "de": "Guardian",
-      "fr": null,
+      "fr": "Guardian",
       "ru": "Технологии стражей",
       "pl": null,
       "cs": "Guardiánské"
@@ -4178,7 +4178,7 @@
       "es": null,
       "pt": "Carregador de Plasma Guardian (Fixa)",
       "de": "Guardian-Plasmalader (Fest)",
-      "fr": "Chargeur à plasma - Guardians (Fixe)",
+      "fr": "Chargeur à plasma - Guardian (Fixe)",
       "ru": "Плазменная пушка стражей (фиксированное)",
       "pl": null,
       "cs": "Guardian Plasma Charger (Fixed)"
@@ -4214,7 +4214,7 @@
       "es": null,
       "pt": "Lançador de dardos de Liberação Remota (Fixa)",
       "de": "ferngesteuerter Flechettenwerfer (Fest)",
-      "fr": null,
+      "fr": "Lanceur de Flechettes Activé à Distance (Fixe),
       "ru": "Зенитная установка с дистанционным подрывом (фиксированное)",
       "pl": null,
       "cs": "Remote Release Flechette Launcher (Fixed)"
@@ -4223,7 +4223,7 @@
       "es": null,
       "pt": "Lançador de dardos de Liberação Remota (Torretada)",
       "de": "ferngesteuerter Flechettenwerfer (Turm)",
-      "fr": null,
+      "fr": "Lanceur de Flechettes Activé à Distance (Tourelle),
       "ru": "Зенитная установка с дистанционным подрывом (турель)",
       "pl": null,
       "cs": "Remote Release Flechette Launcher (Turreted)"
@@ -4232,7 +4232,7 @@
       "es": null,
       "pt": "Canhão Elétrico (Fixa)",
       "de": "Schock Kanone (Fest)",
-      "fr": null,
+      "fr": null
       "ru": "Шоковое орудие (фиксированное)",
       "pl": null,
       "cs": "Shock Cannon (Fixed)"
